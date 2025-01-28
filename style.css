@@ -32,3 +32,8 @@ body {
   padding: 5px 30px;
   border-radius: 5px;
 }
+
+/* Dream Section CSS */
+.reverse {
+  flex-direction: row-reverse;
+}
