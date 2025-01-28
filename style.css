@@ -34,6 +34,11 @@ body {
 }
 
 /* Dream Section CSS */
+.dream-section {
+  background-image: url(images/dream-bg.png);
+  background-repeat: no-repeat;
+  background-position: right center;
+}
 .reverse {
   flex-direction: row-reverse;
 }
